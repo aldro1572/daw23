@@ -4,7 +4,6 @@
  *@access public
  *@example $verdura = new Verdura($comestible,$color);
  *@static $color="verde"
- *@todo Se implementará una clase hija en el futuro
  *@version 1.0
 */
 class Verdura {
